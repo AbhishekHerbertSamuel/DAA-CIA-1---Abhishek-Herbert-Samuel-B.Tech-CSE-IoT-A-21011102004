@@ -5,6 +5,7 @@ The MST using Prim's and Kruskal's is below for the given graph:
 A->C->B->E/D(can go to either E or D from B) with a total cost of 8.
 
 The shortest paths from the source node A to all other nodes using Dijkstra's is below.
+
 A->C->B (COST 3)
 
 A->C (COST 2)
@@ -12,6 +13,7 @@ A->C (COST 2)
 A->C->B->D(COST 5)
 
 A->C->B->E (COST 6)
+
 Here the total cost is 16.
 
 The required adjacency matrix for the given graph is:
